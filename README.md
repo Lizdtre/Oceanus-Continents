@@ -1,6 +1,6 @@
 # Oceanus + Continents 
 
-Enables using [Oceanus]() and continents simultaneously[Continents]()
+Enables using [Oceanus](https://modrinth.com/datapack/oceanus) and [Continents](https://modrinth.com/datapack/continents) simultaneously.
 
 ## Load order
 
