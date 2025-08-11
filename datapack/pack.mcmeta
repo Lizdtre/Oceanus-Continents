@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Oceanus",
+        "color": "#0059a8"
+      },
+      {
+        "text": "+",
+        "color": "#B0B0B0"
+      },
+      {
+        "text": "Continents",
+        "color": "#26933c"
+      },
+      "\n",
+      {
+        "text": "Compatibility Add-on ",
+        "color": "#B0B0B0"
+      }
+    ],
+    "pack_format": 12,
+    "supported_formats": [12, 999]
+  }
+}
