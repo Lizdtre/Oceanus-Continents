@@ -1,5 +1,3 @@
-# CURRENTLY AWAITING MANUAL REVIEW ON MODRINTH
-
 # Oceanus + Continents 
 
 Enables using [Oceanus](https://modrinth.com/datapack/oceanus) and [Continents](https://modrinth.com/datapack/continents) simultaneously.
